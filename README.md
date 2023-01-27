@@ -13,31 +13,13 @@ I am a experienced professional with a background in finance and accounting, and
 - Document Control Manager (1.8 months)
 - Accountant Manager (Currently)
 
-## Technical Skills
-- JavaScript
-- HTML
-- CSS
-- React
-- Redux
-- RTK
-- Query
-- MUI
-- Bootstrap
-- Styled-Components
-- TailwindCSS
-- NodeJS
-- Express
-- Handlebars
-- JWT
-- MVC
 
 ## Current Project
 - Fullstack project using NodeJS and React, consisting of multiple modules:
     - Stock Management
     - HR Management
     - ...
-
-
+#
 ---
 
 ### 🧰 Languages and Tools
@@ -72,9 +54,8 @@ I am a experienced professional with a background in finance and accounting, and
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+![Qudret-Rustamli's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qudret-Rustamli&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 #
 
