@@ -1,6 +1,8 @@
-# 🏄‍♂️ Forrest Knight
+# Rustamli Qudrat
 
 **`Rustamli Qudrat (Developer/Accountant)`**
+
+<img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg]https://avatars.githubusercontent.com/u/92920689?s=400&u=1f245dc9880a02f94d516a3e8baee6eea1ae5e67&v=4" />
 
 I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
 
