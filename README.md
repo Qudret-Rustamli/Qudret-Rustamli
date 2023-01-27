@@ -2,11 +2,41 @@
 
 **`Rustamli Qudrat (Developer/Accountant)`**
 
-<img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg]https://avatars.githubusercontent.com/u/92920689?s=400&u=1f245dc9880a02f94d516a3e8baee6eea1ae5e67&v=4" />
+<img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/92920689?s=400&u=1f245dc9880a02f94d516a3e8baee6eea1ae5e67&v=4" />
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
 
- 
+I am a experienced professional with a background in finance and accounting, and a passion for technology and development.
+
+## Professional Experience
+- Kredit Specialist (6 months)
+- Stock Manager (1.5 years)
+- Document Control Manager (1.8 months)
+- Accountant Manager (Currently)
+
+## Technical Skills
+- JavaScript
+- HTML
+- CSS
+- React
+- Redux
+- RTK
+- Query
+- MUI
+- Bootstrap
+- Styled-Components
+- TailwindCSS
+- NodeJS
+- Express
+- Handlebars
+- JWT
+- MVC
+
+## Current Project
+- Fullstack project using NodeJS and React, consisting of multiple modules:
+    - Stock Management
+    - HR Management
+    - ...
+
 
 ---
 
@@ -16,6 +46,7 @@ I'm an indie full-stack developer and content creator building my version of the
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NextJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
 <img align="left" alt="Redux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 
 <img align="left" alt="MUI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
@@ -23,7 +54,6 @@ I'm an indie full-stack developer and content creator building my version of the
 <img align="left" alt="Tailwindcss" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="ExpressJs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 <img align="left" alt="Handlebars" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" />
