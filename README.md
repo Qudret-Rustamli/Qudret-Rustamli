@@ -19,7 +19,9 @@ I am a experienced professional with a background in finance and accounting, and
     - Stock Management
     - HR Management
     - ...
-#
+
+
+---
 
 
 ### 🧰 Languages and Tools
@@ -47,7 +49,7 @@ I am a experienced professional with a background in finance and accounting, and
 
 <br />
 
----
+
 
 
 ### 📊 Stats
